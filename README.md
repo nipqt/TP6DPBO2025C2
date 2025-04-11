@@ -105,3 +105,8 @@ Saya Hanif Ahmad Syauqi dengan NIM 2304330 mengerjakan soal Tugas Praktikum 6 da
   - Tampilan **Game Over** muncul
   - Menampilkan **skor akhir**
   - User bisa menekan tombol **'R'** untuk restart game
+
+# Dokumentasi
+![](https://github.com/nipqt/TP6DPBO2025C2/blob/main/Dokumentasi/1.jpeg)
+![](https://github.com/nipqt/TP6DPBO2025C2/blob/main/Dokumentasi/2.jpeg)
+![](https://github.com/nipqt/TP6DPBO2025C2/blob/main/Dokumentasi/3.jpeg)

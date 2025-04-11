@@ -1,6 +1,6 @@
 # Janji
 
-Saya Hanif Ahmad Syauqi dengan NIM 2304330 mengerjakan soal Tugas Praktikum 5 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Hanif Ahmad Syauqi dengan NIM 2304330 mengerjakan soal Tugas Praktikum 6 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Desain Program
 
@@ -26,7 +26,7 @@ Saya Hanif Ahmad Syauqi dengan NIM 2304330 mengerjakan soal Tugas Praktikum 5 da
 - Class `FlappyBird` (Game Logic & GUI)
 **Fungsi**: Mengatur logika game, tampilan, dan interaksi pemain.
   - Atribut:
-  - 
+    
   | Atribut          | Tipe               | Deskripsi                                      |
   |------------------|--------------------|------------------------------------------------|
   | `frameWidth`     | `int`              | Lebar layar game                               |
@@ -87,3 +87,21 @@ Saya Hanif Ahmad Syauqi dengan NIM 2304330 mengerjakan soal Tugas Praktikum 5 da
 
   - Method:
     Getter & Setter (misalnya `getPosX()`, `setPassed()`, dll).
+
+# Alur Program
+- Menu Awal:
+  - Program dimulai dengan menampilkan **Start Menu**
+  - Terdapat tombol **"START GAME"** di tengah layar
+  - User menekan tombol untuk memulai game
+
+- Game Utama:
+  - Burung muncul di tengah layar
+  - Pipa muncul secara acak dari kanan layar
+  - User menekan **spasi** untuk membuat burung terbang
+  - **Skor** bertambah saat burung berhasil melewati pipa
+  - **Game Over** jika burung menabrak pipa atau jatuh ke tanah
+
+- Game Over:
+  - Tampilan **Game Over** muncul
+  - Menampilkan **skor akhir**
+  - User bisa menekan tombol **'R'** untuk restart game
